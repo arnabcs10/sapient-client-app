@@ -1,5 +1,5 @@
 class Main{
     public static void main(String args[]){
-        System.out.println("Hello I am master user");
+        System.out.println("Hello I am user1");
     }
 }
